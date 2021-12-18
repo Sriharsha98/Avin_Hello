@@ -5,5 +5,6 @@ int main(){
   cout << "Hello_Avin" <<endl;
   cout << "Hello_World" <<endl;
   cout << "Hello_Universe" <<endl;
+  cout << "Hello_people" << endl;
   return 0;
 }
