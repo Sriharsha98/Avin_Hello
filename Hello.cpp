@@ -6,5 +6,6 @@ int main(){
   cout << "Hello_World" <<endl;
   cout << "Hello_Universe" <<endl;
   cout << "Hello_people" << endl;
+  cout <<"Hello" << endl;
   return 0;
 }
